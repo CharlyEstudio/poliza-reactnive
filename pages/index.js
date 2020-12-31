@@ -1,0 +1,6 @@
+export { default as Login } from './Login'
+export { default as Home } from './Home'
+export { default as Perfil } from './Perfil'
+export { default as NewPoliza } from './NewPoliza'
+export { default as Register } from './Register'
+export { default as AuthLoading } from './AuthLoading'

@@ -1,0 +1,11 @@
+export const StyleTypes = ['default','dark-content', 'light-content']
+export const PrimaryColor = 'rgba(37, 80, 157, 1.0)'
+export const Subtitle = 'rgba(37, 80, 157, 0.7)'
+export const PrimaryColorDark = 'rgba(27, 55, 106, 1.0)'
+export const PrimaryColorLight = 'rgba(236, 238, 241, 0.4)'
+export const PrimaryColorTrans = 'rgba(27, 55, 106, 0.5)'
+export const PrimaryBackGround = '#fff'
+export const BackGroundLight = 'rgba(236, 238, 241, 1.0)'
+export const PrimaryTextColor = '#fff'
+export const GreenSucess = 'rgba(110, 200, 90, 1.0)'
+export const Warning = 'rgba(231, 194, 87, 1.0)'
